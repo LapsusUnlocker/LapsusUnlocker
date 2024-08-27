@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MotoKeyPro\MotoKeyPro\bin\Debug\MotoKeyPro.exe.config
+C:\Users\User\source\repos\MotoKeyPro\MotoKeyPro\bin\Debug\MotoKeyPro.exe
+C:\Users\User\source\repos\MotoKeyPro\MotoKeyPro\bin\Debug\MotoKeyPro.pdb
+C:\Users\User\source\repos\MotoKeyPro\MotoKeyPro\obj\Debug\MotoKeyPro.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MotoKeyPro\MotoKeyPro\obj\Debug\MotoKeyPro.Form1.resources
+C:\Users\User\source\repos\MotoKeyPro\MotoKeyPro\obj\Debug\MotoKeyPro.Properties.Resources.resources
+C:\Users\User\source\repos\MotoKeyPro\MotoKeyPro\obj\Debug\MotoKeyPro.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MotoKeyPro\MotoKeyPro\obj\Debug\MotoKeyPro.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MotoKeyPro\MotoKeyPro\obj\Debug\MotoKeyPro.exe
+C:\Users\User\source\repos\MotoKeyPro\MotoKeyPro\obj\Debug\MotoKeyPro.pdb
